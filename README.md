@@ -23,7 +23,7 @@
 
 ---
 
-## 30 秒跑通（不需要 API Key）
+## 30 秒跑通（该部分为离线部分，不需要 API Key）
 
 ```bash
 python examples/offline_demo.py
