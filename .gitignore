@@ -1,0 +1,23 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Generated records and execution scratch space
+runs/
+.sandbox/
+my_runs/
+demo_notes.txt
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

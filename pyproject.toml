@@ -1,0 +1,8 @@
+[project]
+name = "multi-agent-workflow"
+version = "0.1.0"
+description = "三 Agent 协作的代码生成-审查-修复流水线"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
